@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 602765da-8b70-e5c6-8d6b-ba9dfcf2e84a
 ---
@@ -40,7 +41,7 @@ TOPICS
 
 Introduction
 
-Transportation as a Complex Socio-Technical System ([PDF]({{< baseurl >}}/resources/lect1))
+Transportation as a Complex Socio-Technical System ({{< resource_link 13742734-6b0b-b270-87be-05284ef0081a "PDF" >}})
 
 
 {{< tdclose >}}
@@ -51,7 +52,7 @@ Transportation as a Complex Socio-Technical System ([PDF]({{< baseurl >}}/resour
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Transportation Systems Components ([PDF]({{< baseurl >}}/resources/lect2))
+Transportation Systems Components ({{< resource_link 04479760-fde7-221e-bc1d-e17438854e14 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ Transportation Systems Components ([PDF]({{< baseurl >}}/resources/lect2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-30 Key Points ([PDF]({{< baseurl >}}/resources/lect3))
+30 Key Points ({{< resource_link 74110ea7-cabe-20b9-abac-a8d903c983df "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Transportation Systems Components ([PDF]({{< baseurl >}}/resources/lect2))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Class Discussion Based on Article Distributed ([PDF]({{< baseurl >}}/resources/lect4))
+Class Discussion Based on Article Distributed ({{< resource_link 4b5d80d4-3b8c-b81e-076c-92cbc6ae862b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +79,7 @@ Class Discussion Based on Article Distributed ([PDF]({{< baseurl >}}/resources/l
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling / Demand / Equilibrium ([PDF]({{< baseurl >}}/resources/lect5_6))
+Modeling / Demand / Equilibrium ({{< resource_link 3b0d4df8-a8cb-a529-3fa2-4547b532e997 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Modeling / Demand / Equilibrium (cont.)
 {{< tdopen >}}
 
 
-Costing ([PDF - 4.0 MB]({{< baseurl >}}/resources/lect7_8)) (Courtesy of Carl D. Martland. Used with permission.)
+Costing ({{< resource_link 0c8389f2-dd20-deee-731a-f846335d1b34 "PDF - 4.0 MB" >}}) (Courtesy of Carl D. Martland. Used with permission.)
 
 Guest Lecturer: Carl Martland, MIT
 
@@ -126,7 +127,7 @@ Costing (cont.)
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Traveler Level of Service ([PDF]({{< baseurl >}}/resources/lect9))
+Traveler Level of Service ({{< resource_link 71523b04-0912-43de-de71-9c1e3e9fc446 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +142,7 @@ Urban Transportation and the Land-Use Connection
 
 Mobility vs. Accessibility
 
-Urban Form ([PDF]({{< baseurl >}}/resources/lect10))
+Urban Form ({{< resource_link 6d69dd86-9b97-1a3a-31b9-1b95a4a738e4 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -152,7 +153,7 @@ Urban Form ([PDF]({{< baseurl >}}/resources/lect10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Urban Public Transportation ([PDF]({{< baseurl >}}/resources/lect11))
+Urban Public Transportation ({{< resource_link 47dc58d4-e2e5-c553-489d-11ec1040e0bb "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ Urban Public Transportation ([PDF]({{< baseurl >}}/resources/lect11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Urban Public Transportation (cont.) ([PDF]({{< baseurl >}}/resources/lect12))
+Urban Public Transportation (cont.) ({{< resource_link 6045f952-2389-eea5-63fc-daed5258dfc2 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +177,7 @@ Intercity Traveler Transportation
 
 High-Speed Rail
 
-International Contrasts ([PDF]({{< baseurl >}}/resources/lect13_14))
+International Contrasts ({{< resource_link 6b1ce2e0-f071-eea9-0f68-8c11b8f03448 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -202,7 +203,7 @@ Introduction to Freight / LOS / Logistics
 15
 {{< tdclose >}}
 {{< tdopen >}}
-LOS / Logistics (cont.) ([PDF]({{< baseurl >}}/resources/lect15_18))
+LOS / Logistics (cont.) ({{< resource_link b309d9c9-8a5a-54d8-880d-371c48c25d3c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +247,7 @@ Freight Intermodalism / International Transportation
 {{< tdopen >}}
 
 
-Project Evaluation and Finance ([PDF]({{< baseurl >}}/resources/lect19)) (Courtesy of Carl D. Martland. Used with permission.)
+Project Evaluation and Finance ({{< resource_link 7beb11b0-5e9f-14b6-9fef-c2b12f57e654 "PDF" >}}) (Courtesy of Carl D. Martland. Used with permission.)
 
 Guest Lecturer: Carl Martland, MIT
 
@@ -259,7 +260,7 @@ Guest Lecturer: Carl Martland, MIT
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Public Policy Issues — Privatization ([PDF]({{< baseurl >}}/resources/lect20))
+Public Policy Issues — Privatization ({{< resource_link c99dad2c-76e3-4c9e-4f11-a98346f49720 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +269,7 @@ Public Policy Issues — Privatization ([PDF]({{< baseurl >}}/resources/lect20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Transportation Technologies — Their Role and Limitations ([PDF]({{< baseurl >}}/resources/lect21))
+Transportation Technologies — Their Role and Limitations ({{< resource_link 525d60a9-1b7e-5d8a-6918-1e0f048b8fba "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +282,7 @@ Transportation Technologies — Their Role and Limitations ([PDF]({{< baseurl >}
 
 Transportation in Developing Countries
 
-Megacities — Mexico City (Demand Revisited) ([PDF]({{< baseurl >}}/resources/lect22))
+Megacities — Mexico City (Demand Revisited) ({{< resource_link 5c5e7eef-411d-48f3-6100-681dda9e4087 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -311,7 +312,7 @@ Transportation and Regional Economic Development
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Large Scale Infrastructure System — The New York City Subway ([PDF]({{< baseurl >}}/resources/lect24))
+Large Scale Infrastructure System — The New York City Subway ({{< resource_link a12ded43-e5ea-c8e2-6d76-f0f2309ebd8e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +348,7 @@ Class Summary and Wrap-up
 
 Review of Major Concepts
 
-Student Evaluations and Comments ([PDF]({{< baseurl >}}/resources/lect26))
+Student Evaluations and Comments ({{< resource_link 77281300-3f4d-63ed-ed1a-54901fcf6f03 "PDF" >}})
 
 
 {{< tdclose >}}
