@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/courses/1-201j-introduction-to-transportation-systems-fall-2006/2f70ce557b9b36c71c6c027131e280be_assn5.pdf
+file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/2f70ce557b9b36c71c6c027131e280be_assn5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: assn5.pdf
 uid: 2f70ce55-7b9b-36c7-1c6c-027131e280be
 ---
+Homework assignment.
+
