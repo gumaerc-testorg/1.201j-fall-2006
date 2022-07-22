@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section offers information on the course schedule along
+  with the assignment due dates and out dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 72a66994-6fcf-312c-2b46-c2283c317bc1
 ---
