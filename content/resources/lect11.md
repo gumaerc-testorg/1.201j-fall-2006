@@ -6,6 +6,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/47dc58d4e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect11.pdf
 uid: 47dc58d4-e2e5-c553-489d-11ec1040e0bb
 ---
 This resource contains information on topics spectrum of services, light rail, heavy rail and commuter rail.
-

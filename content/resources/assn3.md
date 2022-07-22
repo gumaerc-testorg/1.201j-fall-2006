@@ -5,6 +5,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/5824354f9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn3.pdf
 uid: 5824354f-90e3-b274-7d15-87de49122145
 ---
 Homework assignment.
-

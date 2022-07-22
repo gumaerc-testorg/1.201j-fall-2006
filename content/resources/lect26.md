@@ -6,6 +6,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/772813003
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect26.pdf
 uid: 77281300-3f4d-63ed-ed1a-54901fcf6f03
 ---
 This resource contains information on topics transportation system components, traveler transportation and freight transportation.
-

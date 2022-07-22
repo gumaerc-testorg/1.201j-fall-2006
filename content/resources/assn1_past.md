@@ -5,6 +5,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/d782adfb3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1_past.pdf
 uid: d782adfb-3e7a-56d2-0e41-b10e1815409e
 ---
 List of topics chosen by students for the first writing assignment.
-

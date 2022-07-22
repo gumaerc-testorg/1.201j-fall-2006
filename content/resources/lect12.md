@@ -6,6 +6,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/6045f9522
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect12.pdf
 uid: 6045f952-2389-eea5-63fc-daed5258dfc2
 ---
 This resource contains information on topics frequency-ridership relationship, bus capacity-ridership relationship and square root model.
-

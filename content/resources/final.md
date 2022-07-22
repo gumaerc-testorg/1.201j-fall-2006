@@ -5,6 +5,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/718139427
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final.pdf
 uid: 71813942-7180-350a-ef25-671848673009
 ---
 Final examination problems.
-

@@ -5,6 +5,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/42e6dfdad
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: 42e6dfda-d2f8-e889-884a-39891409561e
 ---
 Writing assignment.
-

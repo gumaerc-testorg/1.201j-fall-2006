@@ -6,6 +6,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/a12ded43e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect24.pdf
 uid: a12ded43-e5ea-c8e2-6d76-f0f2309ebd8e
 ---
 This resource contains information on topics japan, argentina, british rail and tren urbano.
-

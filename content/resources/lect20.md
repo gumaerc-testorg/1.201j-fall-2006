@@ -6,6 +6,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/c99dad2c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect20.pdf
 uid: c99dad2c-76e3-4c9e-4f11-a98346f49720
 ---
 This resource contains information on topics UK experience, bus restructuring, bus deregulation outside london and british rail.
-

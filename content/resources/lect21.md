@@ -8,6 +8,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/525d60a91
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 525d60a9-1b7e-5d8a-6918-1e0f048b8fba
 ---
 This resource contains information on topics intelligent transportation
 systems, ITS-4 technologies, advanced transportation management systems, incident management and advanced traveler information systems.
-

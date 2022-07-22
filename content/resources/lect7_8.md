@@ -6,6 +6,7 @@ file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/0c8389f2d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect7_8.pdf
 uid: 0c8389f2-dd20-deee-731a-f846335d1b34
 ---
 This resource contains information on topics peak traffic demands cause delays at bottlenecks, fixed vs. variable costs and net present value.
-
