@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics transportation system components,
   traveler transportation and freight transportation.
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/772813003f4d63eded1a54901fcf6f03_lect26.pdf
+file_size: 55193
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

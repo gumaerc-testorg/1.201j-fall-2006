@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on topics taxes, monopolies and stakeholders.
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/74110ea7cabe20b9abaca8d903c983df_lect3.pdf
+file_size: 79124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

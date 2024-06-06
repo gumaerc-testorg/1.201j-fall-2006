@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics UK experience, bus restructuring,
   bus deregulation outside london and british rail.
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/c99dad2c76e34c9e4f11a98346f49720_lect20.pdf
+file_size: 315956
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
