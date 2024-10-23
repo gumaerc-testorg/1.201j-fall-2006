@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of topics chosen by students for the first writing assignment.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/c799d350e02995089c3d1d5b4452a0aa_assn1_current.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/c799d350e02995089c3d1d5b4452a0aa_assn1_current.pdf
 file_size: 74951
 file_type: application/pdf
 learning_resource_types:
