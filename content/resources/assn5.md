@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/2f70ce557b9b36c71c6c027131e280be_assn5.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/2f70ce557b9b36c71c6c027131e280be_assn5.pdf
 file_size: 53915
 file_type: application/pdf
 learning_resource_types:

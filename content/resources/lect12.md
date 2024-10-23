@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics frequency-ridership relationship,
   bus capacity-ridership relationship and square root model.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/6045f9522389eea563fcdaed5258dfc2_lect12.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/6045f9522389eea563fcdaed5258dfc2_lect12.pdf
 file_size: 110916
 file_type: application/pdf
 learning_resource_types:
