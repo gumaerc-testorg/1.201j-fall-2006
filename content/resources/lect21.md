@@ -4,7 +4,7 @@ description: 'This resource contains information on topics intelligent transport
 
   systems, ITS-4 technologies, advanced transportation management systems, incident
   management and advanced traveler information systems.'
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/525d60a91b7e5d8a69181e0f048b8fba_lect21.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/525d60a91b7e5d8a69181e0f048b8fba_lect21.pdf
 file_size: 124494
 file_type: application/pdf
 learning_resource_types:
