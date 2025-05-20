@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics conceptual view of TSA,
   simulation models, cross-sectional vstime-series and probabilistic binary choice.
-file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/3b0d4df8a8cba5293fa24547b532e997_lect5_6.pdf
+file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/3b0d4df8a8cba5293fa24547b532e997_lect5_6.pdf
 file_size: 344785
 file_type: application/pdf
 learning_resource_types:
