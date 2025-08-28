@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final examination problems.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/718139427180350aef25671848673009_final.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/718139427180350aef25671848673009_final.pdf
 file_size: 68079
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/42e6dfdad2f8e889884a39891409561e_assn1.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/42e6dfdad2f8e889884a39891409561e_assn1.pdf
 file_size: 72697
 file_type: application/pdf
 learning_resource_types:
