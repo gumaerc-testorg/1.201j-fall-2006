@@ -2,7 +2,7 @@
 content_type: resource
 description: Part A addresses issues related to the capacity, performance, and demand
   for the Panama Canal.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/3eceba82b36c4663d56116a996ebf09b_assn6a.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/3eceba82b36c4663d56116a996ebf09b_assn6a.pdf
 file_size: 255625
 file_type: application/pdf
 learning_resource_types:

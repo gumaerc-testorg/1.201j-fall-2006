@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics spectrum of services, light
   rail, heavy rail and commuter rail.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/47dc58d4e2e5c553489d11ec1040e0bb_lect11.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/47dc58d4e2e5c553489d11ec1040e0bb_lect11.pdf
 file_size: 86300
 file_type: application/pdf
 learning_resource_types:
