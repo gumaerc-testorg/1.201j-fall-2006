@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics japan, argentina, british
   rail and tren urbano.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/a12ded43e5eac8e26d76f0f2309ebd8e_lect24.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/a12ded43e5eac8e26d76f0f2309ebd8e_lect24.pdf
 file_size: 187459
 file_type: application/pdf
 learning_resource_types:

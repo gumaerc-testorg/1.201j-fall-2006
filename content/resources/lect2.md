@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics physical system, infrastructure,
   vehicle, power system and fuel.
-file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/04479760fde7221ebc1de17438854e14_lect2.pdf
+file: /ol-ocw-studio-app/courses/1-201j-introduction-to-transportation-systems-fall-2006/04479760fde7221ebc1de17438854e14_lect2.pdf
 file_size: 60846
 file_type: application/pdf
 learning_resource_types:
